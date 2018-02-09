@@ -1,0 +1,8 @@
+{
+  "include": [
+    "2017/**/*.js"
+  ],
+  "reporter": [
+    "text"
+  ]
+}

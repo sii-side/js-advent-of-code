@@ -1,0 +1,1 @@
+This repository contains my JavaScript codes for [Advent of Code](http://adventofcode.com/).
