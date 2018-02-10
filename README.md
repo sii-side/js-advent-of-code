@@ -1,1 +1,1 @@
-This repository contains my JavaScript codes for [Advent of Code](http://adventofcode.com/).
+This repository contains my JavaScript codes of [Advent of Code](http://adventofcode.com/).
